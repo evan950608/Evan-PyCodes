@@ -1,0 +1,1753 @@
+
+AGH University of Science and Technology
+    Latitude: 50.0676785
+    Longitude: 19.9070824
+    Formatted Address: Dormitory no. 14 "Kapitol" of AGH University of Science and Technology in Cracov, Poland, Witolda Budryka 2, 30-072 Kraków, Poland
+    Place_ID: ChIJz2iPertbFkcRvUH1Z8Vkvts
+    
+Academy of Fine Arts Warsaw Poland
+    Latitude: 52.2296756
+    Longitude: 21.0122287
+    Formatted Address: Warsaw, Poland
+    Place_ID: ChIJAZ-GmmbMHkcR_NPqiCq-8HI
+    
+American University in Cairo
+    Latitude: 30.0068972
+    Longitude: 31.5005988
+    Formatted Address: American University Housing District, Cairo Governorate, Egypt
+    Place_ID: ChIJ01L03VIiWBQRAXIaVtLeQ7M
+    
+Arizona State University
+    Latitude: 33.4232051
+    Longitude: -111.8879509
+    Formatted Address: State Ave, Tempe, AZ 85281, USA
+    Place_ID: ChIJU0vdxkUIK4cRNFy7iws5sS8
+    
+Athens Information Technology
+    Latitude: 33.9094658
+    Longitude: -83.4604372
+    Formatted Address: Information Technology Services, 2500 Daniels Bridge Rd, Athens, GA 30606, USA
+    Place_ID: ChIJZ0HEPzRy9ogR7G8kvyICHc4
+    
+BITS Pilani
+    Latitude: 28.3580163
+    Longitude: 75.5887989
+    Formatted Address: BITS, Pilani, Rajasthan 333031, India
+    Place_ID: ChIJiS2H9mQZEzkR_Vg0F3qaGsM
+    
+Babcock University
+    Latitude: 43.1294077
+    Longitude: -77.5479304
+    Formatted Address: Babcock Dr, Rochester, NY 14610, USA
+    Place_ID: ChIJ_WhKKpbK1okRTjA4diWVLJA
+    
+Banaras Hindu University
+    Latitude: 25.2685304
+    Longitude: 82.9904737
+    Formatted Address: Banaras Hindu University Campus, Varanasi, Uttar Pradesh, India
+    Place_ID: ChIJqSiSwCkyjjkRu9CM8rpJVP0
+    
+Bangalore University
+    Latitude: 12.9426914
+    Longitude: 77.5053145
+    Formatted Address: Bangalore University Rd, Bengaluru, Karnataka 560056, India
+    Place_ID: ChIJh2uBlpE-rjsRu0fX9kweAD8
+    
+Baylor University
+    Latitude: 64.8852156
+    Longitude: -147.8009743
+    Formatted Address: Baylor Blvd, Fairbanks, AK 99709, USA
+    Place_ID: ChIJD1uBU5FEMlERr1cJKfa-aKg
+    
+Beijing normal university
+    Latitude: 39.9304437
+    Longitude: 116.3076925
+    Formatted Address: Capital Normal University, Haidian, Beijing, China, 100037
+    Place_ID: ChIJ8Yw9mOxR8DURcEv8iAjwnJQ
+    
+Belarusian State University
+    Latitude: 53.89318369999999
+    Longitude: 27.547338
+    Formatted Address: Monument to Fallen Professors and Students of the Belarusian State University, Minsk, Belarus
+    Place_ID: ChIJs3VBe-fP20YRe38Z5uo_1-w
+    
+Belgrade University
+    Latitude: 33.0430635
+    Longitude: -96.72549579999999
+    Formatted Address: Belgrade Dr, Plano, TX 75023, USA
+    Place_ID: ChIJXTemOV0YTIYRR86NNB1ShOs
+    
+Beloit College
+    Latitude: 42.5030209
+    Longitude: -89.0295642
+    Formatted Address: College St, Beloit, WI 53511, USA
+    Place_ID: ChIJLdBTeSahCIgRIETQm22AvdE
+    
+Belorussian State University
+    Latitude: 53.89318369999999
+    Longitude: 27.547338
+    Formatted Address: Monument to Fallen Professors and Students of the Belarusian State University, Minsk, Belarus
+    Place_ID: ChIJs3VBe-fP20YRe38Z5uo_1-w
+    
+Ben Gurion University
+    Latitude: 32.0184325
+    Longitude: 34.738834
+    Formatted Address: Derech Ben Gurion, Bat Yam, Israel
+    Place_ID: ChIJPeU1ORqzAhUREjbmYnoW5p0
+    
+Bharthidasan University
+    Latitude: 10.6779821
+    Longitude: 78.7379529
+    Formatted Address: Bharathidasan University Bus Stop, Mathur, Mandaiyur, Tamil Nadu 620024, India
+    Place_ID: ChIJU7i57VCJqjsRlgIyYIkVJlk
+    
+Boston University
+    Latitude: 42.3400834
+    Longitude: -71.1669754
+    Formatted Address: Boston College, Boston, MA 02467, USA
+    Place_ID: ChIJj9fVC11444kRI1gRZcjpUYk
+    
+California Polytechnic State University of San Luis Obispo
+    Latitude: 35.2827524
+    Longitude: -120.6596156
+    Formatted Address: San Luis Obispo, CA, USA
+    Place_ID: ChIJJ8Jse77m7IARRg_vzsKQArw
+    
+California State University San Bernardino
+    Latitude: 34.1515641
+    Longitude: -117.3354402
+    Formatted Address: N State St, San Bernardino, CA, USA
+    Place_ID: ChIJT_nmPD9Sw4ARjaoSo3PGcO4
+    
+City of Westminster College
+    Latitude: 30.54917979999999
+    Longitude: -96.2980214
+    Formatted Address: Westminster, College Station, TX 77845, USA
+    Place_ID: ChIJ5ayEXDebRoYRRBOEyYdHstM
+    
+Columbia University
+    Latitude: 33.6520436
+    Longitude: -117.8286548
+    Formatted Address: Columbia, Irvine, CA 92612, USA
+    Place_ID: ChIJdeMSmeHd3IAR4MwViNVFTOI
+    
+Cranfield University
+    Latitude: 52.0742111
+    Longitude: -0.6300115
+    Formatted Address: Cranfield University Bldg, 45 College Rd, Cranfield, Bedford, Central Bedfordshire MK43 0AL, UK
+    Place_ID: ChIJ6Uyjok2sd0gRProggkZQM_4
+    
+Czech Technical University in Prague
+    Latitude: 50.0755381
+    Longitude: 14.4378005
+    Formatted Address: Prague, Czech Republic
+    Place_ID: ChIJi3lwCZyTC0cRkEAWZg-vAAQ
+    
+Dartmouth
+    Latitude: 41.6130323
+    Longitude: -70.9704787
+    Formatted Address: Dartmouth, MA, USA
+    Place_ID: ChIJi5CyseXi5IkRZLJeZR4ndE4
+    
+De Anza College
+    Latitude: 37.319538
+    Longitude: -122.0433207
+    Formatted Address: Campus Dr, Cupertino, CA 95014, USA
+    Place_ID: ChIJz03pglG0j4ARrqagmmbLa0w
+    
+Distant University of Hagen
+    Latitude: 51.3670777
+    Longitude: 7.4632841
+    Formatted Address: Hagen, Germany
+    Place_ID: ChIJ2yg81387uUcR1jbZgSbWYEM
+    
+Dnipropetrovsk National University
+    Latitude: 48.464717
+    Longitude: 35.046183
+    Formatted Address: Dnepropetrovsk, Dnipropetrovsk Oblast, Ukraine
+    Place_ID: ChIJj0YI_QPj20ARuhrB8tXzHAo
+    
+Dokuz Eylul University
+    ==== Unable to Write ====
+    
+Drexel
+    Latitude: 38.47945929999999
+    Longitude: -94.60856629999999
+    Formatted Address: Drexel, MO, USA
+    Place_ID: ChIJ12LsRSsyx4cRvVMILSdLk5s
+    
+Drexel University and University of Texas at Austin
+    Latitude: 30.267153
+    Longitude: -97.7430608
+    Formatted Address: Austin, TX, USA
+    Place_ID: ChIJLwPMoJm1RIYRetVp1EtGm10
+    
+Duke University
+    Latitude: 41.9197689
+    Longitude: -91.649501
+    Formatted Address: Duke St SW, Cedar Rapids, IA 52404, USA
+    Place_ID: ChIJ346g_cT35IcRrbkSoKZwWWo
+    
+EM Lyon
+    Latitude: 50.862282
+    Longitude: -2.4998561
+    Formatted Address: E M Mitchell & Sons, Hermitage, Dorchester, Dorset DT2 7BB, UK
+    Place_ID: ChIJ6ZDecVZEckgRVKU-RAf__GU
+    
+Ecole centrale de PARIS
+    Latitude: 48.8635276
+    Longitude: 2.3272053
+    Formatted Address: Allée Centrale, 75001 Paris, France
+    Place_ID: ChIJJ6fSSSxu5kcRBMycfaYtPDQ
+    
+Elon University
+    Latitude: 36.09827620000001
+    Longitude: -79.5115433
+    Formatted Address: Elon, NC, USA
+    Place_ID: ChIJd1GvVuErU4gR3Y5QyEUapBM
+    
+Erhvervsakademi Sydvest
+    Latitude: 55.4883363
+    Longitude: 8.4468283
+    Formatted Address: Business Academy South West, Spangsbjerg Kirkevej, 6700 Esbjerg, Denmark
+    Place_ID: ChIJN0kEBN4gS0YRg3URQvCM8pM
+    
+Escuela Superior Politecnica del Litoral
+    Latitude: -2.3256889
+    Longitude: -80.8535199
+    Formatted Address: Escuela Superior Politécnica del Litoral (ESPOL), Ancón, Ecuador
+    Place_ID: ChIJGbQNjB0HLpAR8O6KjqbtqOo
+    
+Fachhochschule Dusseldorf
+    Latitude: 51.1877226
+    Longitude: 6.793873400000001
+    Formatted Address: Fachhochschule Düsseldorf, 40225 Düsseldorf, Germany
+    Place_ID: ChIJ7evGHv7KuEcRdvl7Wkvg5_I
+    
+Fachhochschule FH Salzburg
+    Latitude: 47.80949
+    Longitude: 13.05501
+    Formatted Address: Salzburg, Austria
+    Place_ID: ChIJsdQIqd2adkcRPfcqQaGD4cE
+    
+Faculdade de Tecnologia do Estado de Sao Paulo
+    Latitude: -21.2867332
+    Longitude: -50.3393135
+    Formatted Address: Faculdade de Ciências Tecnologia de Birigui - R. Antônio Simões, 4 - Centro, Birigui - SP, Brazil
+    Place_ID: ChIJUwO85tcUlpQR8xY9SsoEVHk
+    
+Faculty of Technical Sciences Novi Sad Serbia
+    Latitude: 45.2671352
+    Longitude: 19.8335496
+    Formatted Address: Novi Sad, Serbia
+    Place_ID: ChIJVTTpPWEQW0cRKP4kN2h9bws
+    
+Farmingdale State University
+    Latitude: 40.755915
+    Longitude: -73.42743
+    Formatted Address: State University / Farmingdale, Melville, NY 11735, USA
+    Place_ID: ChIJScDUqFcq6IkRpvubNFOAVmw
+    
+Federal University of Minas Gerais
+    Latitude: -18.92028
+    Longitude: -48.261575
+    Formatted Address: Reitoria da Universidade Federal de Uberlândia - Av. João Naves de Ávila, 2121 - Santa Mônica, Uberlândia - MG, Brazil
+    Place_ID: ChIJ3ZzYeAtFpJQR9zpxPpM19zI
+    
+Florida Atlantic University
+    Latitude: 30.3135522
+    Longitude: -81.6004765
+    Formatted Address: Atlantic University Cir, Jacksonville, FL 32207, USA
+    Place_ID: ChIJPUXP7yi05YgRRT0t2pkGnC8
+    
+Franklin Pierce College
+    Latitude: 39.9678929
+    Longitude: -82.98294159999999
+    Formatted Address: Elijah Pierce Ave, Columbus, OH 43203, USA
+    Place_ID: ChIJXVc-o9CIOIgRM38KiynSebk
+    
+Gauhati University
+    Latitude: 26.1529683
+    Longitude: 91.66392350000001
+    Formatted Address: Gauhati University, Jalukbari, Guwahati, Assam, India
+    Place_ID: ChIJZcl2o89EWjcRWUA5wAdqY5g
+    
+George Mason University
+    Latitude: 38.83419
+    Longitude: -77.307587
+    Formatted Address: George Mason University, Braddock, VA 22030, USA
+    Place_ID: ChIJ6es3mopOtokRX3IAU0Ubwe0
+    
+Georgetown University Law Center
+    Latitude: 38.0529062
+    Longitude: -78.50964309999999
+    Formatted Address: Law School (David A. Harrison III Law Grounds), Charlottesville, VA 22901, USA
+    Place_ID: ChIJzRC3Ga6Hs4kRYhWPTMBbXww
+    
+Georgia State University
+    Latitude: 32.5297685
+    Longitude: -83.90536
+    Formatted Address: State University Dr, Fort Valley, GA 31030, USA
+    Place_ID: ChIJm0R8vF7A84gRuhe8XSEKR_Y
+    
+Grandville
+    Latitude: 42.9097484
+    Longitude: -85.7630885
+    Formatted Address: Grandville, MI, USA
+    Place_ID: ChIJ_fDhukJSGIgRM_5vcXgXv-4
+    
+Groep T University
+    Latitude: 50.77804399999999
+    Longitude: 6.060226000000001
+    Formatted Address: Research Group Software Construction - RWTH Aachen University, Ahornstraße 55, 52074 Aachen, Germany
+    Place_ID: ChIJuWhSkoWZwEcRBL4ZrJc7jUo
+    
+Hanoi University of Science and Technology
+    ==== Unable to Write ====
+    
+Hebrew University
+    Latitude: 31.779299
+    Longitude: 35.197143
+    Formatted Address: The Hebrew University, Jerusalem
+    Place_ID: ChIJp0b0bMvXAhURr0WR4HjgtxQ
+    
+IIIT Hyderabad
+    Latitude: 17.4447918
+    Longitude: 78.3483098
+    Formatted Address: IIIT, Gachibowli, Hyderabad, Telangana 500032, India
+    Place_ID: ChIJ9wpi66KTyzsRji0O2WbMP5Q
+    
+IIT KANPUR
+    Latitude: 26.5203418
+    Longitude: 80.23247990000002
+    Formatted Address: IIT Kanpur Air Strip, Nankari, Kalyanpur, Kanpur, Uttar Pradesh 208016, India
+    Place_ID: ChIJWT7QswI3nDkR6W4b3x2eOC0
+    
+IT College of Estonia
+    Latitude: 59.39547889999999
+    Longitude: 24.6643169
+    Formatted Address: IT College, 12616 Tallinn, Estonia
+    Place_ID: ChIJtwfNmKmVkkYRytROXZXtFbM
+    
+IU
+    Latitude: 65.3174411
+    Longitude: 25.3734596
+    Formatted Address: 91100 Ii, Finland
+    Place_ID: ChIJX_EVRcCcKkQR0-QPTeyWiNY
+    
+IUAV Venezia
+    Latitude: 45.4381291
+    Longitude: 12.3253617
+    Formatted Address: Università Iuav di Venezia Palazzo Badoer, 30125 Venezia, Italy
+    Place_ID: ChIJTxRteMaxfkcRBK2I3y9XXog
+    
+Illinois Institute of Technology
+    Latitude: 41.8313959
+    Longitude: -87.6272312
+    Formatted Address: Iit Tower, Chicago, IL 60616, USA
+    Place_ID: ChIJebuVwg0sDogRScUH_hIYq60
+    
+Illinois State University Joliet Junior College
+    Latitude: 40.6331249
+    Longitude: -89.3985283
+    Formatted Address: Illinois, USA
+    Place_ID: ChIJGSZubzgtC4gRVlkRZFCCFX8
+    
+Indian Institute of Technology
+    Latitude: 12.9914929
+    Longitude: 80.2336907
+    Formatted Address: Indian Institute Of Technology, Chennai, Tamil Nadu, India
+    Place_ID: ChIJawzO84FnUjoRULNtTPiNNkE
+    
+Indian Institute of Technology Kharagpur India
+    Latitude: 22.320423
+    Longitude: 87.309422
+    Formatted Address: AIESEC IIT Kharagpur, Indian Institute of Technology Kharagpur, IIT Kharagpur, Kharagpur, West Bengal 721302, India
+    Place_ID: ChIJAQAAAANEHToRtjkWGvpl4eo
+    
+Indian School of Mines Dhanbad
+    Latitude: 23.7956531
+    Longitude: 86.43038589999999
+    Formatted Address: Dhanbad, Jharkhand, India
+    Place_ID: ChIJbfzMBAij9jkR52T3hRseFfo
+    
+Indiana University
+    Latitude: 39.1670467
+    Longitude: -86.5269373
+    Formatted Address: Indiana University, Bloomington, IN 47405, USA
+    Place_ID: ChIJ76vtWsJmbIgRFKo4Pf6-cOY
+    
+Indiana University at Bloomington
+    Latitude: 39.174335
+    Longitude: -86.50546899999999
+    Formatted Address: Hilltop Garden and Nature Center at Indiana University, 2367 E 10th St, Bloomington, IN 47408, USA
+    Place_ID: ChIJxTQlOKRmbIgRU3YGklD1yTY
+    
+Institut Superieur de technologies
+    Latitude: 26.7391812
+    Longitude: -11.6646723
+    Formatted Address: Institut Supérieur de Technologie, Samara 72000
+    Place_ID: ChIJYdblTv50NAwRboz1Hgp75A8
+    
+Institute of Business and Modern Technologies
+    Latitude: 43.8612402
+    Longitude: 125.3207967
+    Formatted Address: Changchun Institute of Technology Modern Business Centre, Guilin Road, Chaoyang, Changchun, Jilin, China, 130021
+    Place_ID: ChIJiW7F-aBdOF4Rjaa6M9dye5A
+    
+Instituto Tecnologico de Santo Domingo
+    Latitude: 17.9972951
+    Longitude: -94.5625527
+    Formatted Address: Instituto Tecnológico, Minatitlán, Ver., Mexico
+    Place_ID: ChIJF0oTkAOI6YURgfuxb1cma6U
+    
+International Institute of Information Technology Hyderabad
+    Latitude: 17.385044
+    Longitude: 78.486671
+    Formatted Address: Hyderabad, Telangana, India
+    Place_ID: ChIJx9Lr6tqZyzsRwvu6koO3k64
+    
+Irkutsk State University
+    Latitude: 52.28697409999999
+    Longitude: 104.3050183
+    Formatted Address: Irkutsk, Irkutsk Oblast, Russia
+    Place_ID: ChIJZfbiU9M6qF0RTunYVhTN1jE
+    
+JADAVPUR UNIVERSITY
+    Latitude: 22.4828735
+    Longitude: 88.39486699999999
+    Formatted Address: Jadavpur University Lake, Sahid Smirity Colony, Pancha Sayar, Kolkata, West Bengal 700094
+    Place_ID: ChIJp5FD4WRxAjoRJ9WAr2y56LY
+    
+Jawaharlal Nehru Technological University
+    Latitude: 17.4930263
+    Longitude: 78.39062179999999
+    Formatted Address: Jawaharlal Nehru Technological University, Kukatpally, Hyderabad, Telangana, India
+    Place_ID: ChIJtet3QfORyzsRBE3AgHaGMf8
+    
+Jawaharlal Nehru University
+    Latitude: 28.543087
+    Longitude: 77.16583779999999
+    Formatted Address: Jawaharlal Nehru University, New Delhi, Delhi, India
+    Place_ID: ChIJE0TFX8MdDTkRglE2EklrWY0
+    
+Jordan University of Science and Technology
+    Latitude: 22.3404614
+    Longitude: 114.2607123
+    Formatted Address: Hong Kong University Of Science And Technology Staff Quarters House Block 8, Clear Water Bay, Hong Kong
+    Place_ID: ChIJXfqxxz8EBDQRJuj68QCxiRY
+    
+K-State
+    Latitude: 39.439999
+    Longitude: -91.5978512
+    Formatted Address: Rte K, Missouri, USA
+    Place_ID: ChIJsUwXmCy33YcRV3ZshM3Fn0M
+    
+KUL
+    Latitude: 46.3339075
+    Longitude: 17.4542123
+    Formatted Address: Kutas, Hungary
+    Place_ID: ChIJm_J38R5maEcRcEYeDCnEAAQ
+    
+Kalamazoo College
+    Latitude: 42.2555542
+    Longitude: -85.6407559
+    Formatted Address: College Cir, Kalamazoo, MI 49008, USA
+    Place_ID: ChIJV1np4152F4gRIW9o_rSIMZ0
+    
+Kaunas Technology University
+    Latitude: 54.8985207
+    Longitude: 23.9035965
+    Formatted Address: Kaunas, Lithuania
+    Place_ID: ChIJQ9NnsXAi50YRvIs3x-DRS2E
+    
+Kaunas university of technology
+    Latitude: 54.8985207
+    Longitude: 23.9035965
+    Formatted Address: Kaunas, Lithuania
+    Place_ID: ChIJQ9NnsXAi50YRvIs3x-DRS2E
+    
+Kazan Federal University
+    Latitude: 55.8304307
+    Longitude: 49.06608060000001
+    Formatted Address: Kazan, Tatarstan, Russia
+    Place_ID: ChIJmc2sfCutXkERZYyttbl3y38
+    
+Kent State University
+    Latitude: 41.152199
+    Longitude: -81.415802
+    Formatted Address: Kent State University Airport, 4020 Kent Rd, Stow, OH 44224, USA
+    Place_ID: ChIJj2p3j80lMYgRtk2uxG_uMXk
+    
+Kharkiv State Academy of Municipal Economy Ukraine
+    Latitude: 49.9935
+    Longitude: 36.230383
+    Formatted Address: Kharkiv, Kharkiv Oblast, Ukraine
+    Place_ID: ChIJiw-rY5-gJ0ERCr6kGmgYTC0
+    
+King Mongkuts University of Technology Thonburi
+    Latitude: 13.7164911
+    Longitude: 100.4874338
+    Formatted Address: Thon Buri, Bangkok, Thailand
+    Place_ID: ChIJiVcgOV-Y4jARcE7iXbIAAQM
+    
+Kokshetau Institute of Economics and Management
+    Latitude: 53.2948229
+    Longitude: 69.4047872
+    Formatted Address: Kokshetau 020000, Kazakhstan
+    Place_ID: ChIJVy5JP2CUTEIRE1RU19YiGYg
+    
+Kyiv Polytechnic Institute
+    ==== Unable to Write ====
+    
+Kyiv Polytechnical Institute
+    ==== Unable to Write ====
+    
+Kyiv Unisersity of Oriental Language
+    Latitude: 50.4501
+    Longitude: 30.5234
+    Formatted Address: Kiev, Ukraine
+    Place_ID: ChIJBUVa4U7P1EAR_kYBF9IxSXY
+    
+Laurentian University
+    Latitude: 46.46192509999999
+    Longitude: -80.9664623
+    Formatted Address: University Laurentian, Copper Cliff, ON P0M 1N0, Canada
+    Place_ID: ChIJ53Jckvj_Lk0RFmPWyfDM2TA
+    
+Lisandro Alvarado
+    Latitude: -32.9443117
+    Longitude: -60.6956338
+    Formatted Address: Alvarado, Rosario, Santa Fe, Argentina
+    Place_ID: ChIJezAcJr-st5URjYVf9N6Wuj4
+    
+Lodz University of Technology
+    ==== Unable to Write ====
+    
+Lviv University
+    Latitude: 49.839683
+    Longitude: 24.029717
+    Formatted Address: Lviv, Lviv Oblast, Ukraine
+    Place_ID: ChIJV5oQCXzdOkcR4ngjARfFI0I
+    
+MSU
+    ==== Unable to Write ====
+    
+Madras university
+    Latitude: 10.6578666
+    Longitude: 78.7451667
+    Formatted Address: University Rd, Mandaiyur, Tamil Nadu 620024, India
+    Place_ID: ChIJ18YtYzOJqjsRHEnnXbM0Jjc
+    
+Magnitogorsk State Technical University
+    Latitude: 53.4129429
+    Longitude: 59.00162330000001
+    Formatted Address: Magnitogorsk, Chelyabinsk Oblast, Russia
+    Place_ID: ChIJTy75pJMl0UMRaICCZUlXuNw
+    
+Malayer Azad University
+    Latitude: 34.3020001
+    Longitude: 48.8145943
+    Formatted Address: Malayer, Hamedan, Iran
+    Place_ID: ChIJy6P3ez_c7T8Ro7Y1_yM5_bk
+    
+Marietta College
+    Latitude: 64.859787
+    Longitude: -147.7224427
+    Formatted Address: Marietta Ave, Fairbanks, AK 99701, USA
+    Place_ID: ChIJmxhcIBZFMlERSRe_0Wxj2A0
+    
+Masdar Institute
+    Latitude: 24.4337071
+    Longitude: 54.6178356
+    Formatted Address: Masdar Institute PRT Station - Abu Dhabi - United Arab Emirates
+    Place_ID: ChIJJfBMnq9IXj4RI_SzCmvGg9U
+    
+Matematicki fakultet Beograd
+    Latitude: 44.786568
+    Longitude: 20.4489216
+    Formatted Address: Belgrade, Serbia
+    Place_ID: ChIJvT-116N6WkcR5H4X8lxkuB0
+    
+Michigan State University
+    Latitude: 42.726655
+    Longitude: -84.46992999999999
+    Formatted Address: Michigan State University, East Lansing, MI 48823, USA
+    Place_ID: ChIJ931G1oDCIogRCqGODFjQvMM
+    
+Middle East Technical University
+    ==== Unable to Write ====
+    
+Missouri University of Science and Technology
+    Latitude: 39.8729896
+    Longitude: 116.4796427
+    Formatted Address: Beijing University of Technology the Science Building, Chaoyang, Beijing, China, 100124
+    Place_ID: ChIJ5bJYioit8TURnkX3kVIepYg
+    
+Monash
+    Latitude: -35.4158638
+    Longitude: 149.0897893
+    Formatted Address: Monash ACT 2904, Australia
+    Place_ID: ChIJr15C50c1FmsRAFppp27qAAU
+    
+Monash University
+    Latitude: -37.914517
+    Longitude: 145.1303881
+    Formatted Address: Monash College, Wellington Rd, Clayton VIC 3168, Australia
+    Place_ID: ChIJWUtYQc5q1moR_CanQsHDkM0
+    
+Monash University Churchill Australia
+    Latitude: -38.3105571
+    Longitude: 146.4292232
+    Formatted Address: Monash University Gippsland Student Lounge, 7N Mary Grant Bruce Dr, Churchill VIC 3842, Australia
+    Place_ID: ChIJ5RzYuikTKWsRFjPOBcutk8Q
+    
+Monterrey Institute of Technology and Higher Education
+    Latitude: 25.6866142
+    Longitude: -100.3161126
+    Formatted Address: Monterrey, N.L., Mexico
+    Place_ID: ChIJ9fg3tDGVYoYRlJjIasrT06M
+    
+Moscow Engineering-Physics Institute
+    Latitude: 55.755826
+    Longitude: 37.6173
+    Formatted Address: Moscow, Russia
+    Place_ID: ChIJybDUc_xKtUYRTM9XV8zWRD0
+    
+Moscow Institute of Physics & Technology
+    Latitude: 55.755826
+    Longitude: 37.6173
+    Formatted Address: Moscow, Russia
+    Place_ID: ChIJybDUc_xKtUYRTM9XV8zWRD0
+    
+Moscow State University
+    Latitude: 55.7066609
+    Longitude: 37.5169664
+    Formatted Address: Lomonosov Moscow State University, MSU Institute of Mechanics, Michurinskiy pr., 1, Moskva, Russia, 119192
+    Place_ID: ChIJ_dFOfVpKtUYRfeN6GyPP3QQ
+    
+NIT ROURKELA
+    Latitude: 22.2557869
+    Longitude: 84.9125553
+    Formatted Address: NIT Backpost, Sector 1, Rourkela, Odisha 769008, India
+    Place_ID: ChIJ0xIbldgdIDoRhXtphTxYTuI
+    
+NYU
+    Latitude: 35.712815
+    Longitude: 135.9711705
+    Formatted Address: Nyu, Mihama, Mikata District, Fukui Prefecture 919-1201, Japan
+    Place_ID: ChIJFxnHEwPiAWARsd5hBmzb8pE
+    
+Nagpur University
+    Latitude: 21.1470404
+    Longitude: 79.0397862
+    Formatted Address: Nagpur University Campus, Nagpur, Maharashtra 440033, India
+    Place_ID: ChIJ55cSLz_A1DsR_LdEfac1GJc
+    
+Nanyang Technological University
+    Latitude: 31.204638
+    Longitude: 121.5853839
+    Formatted Address: Nanyang Technological University Shanghai Office, Pudong, Shanghai, China, 201203
+    Place_ID: ChIJM6pi_qB3sjURkLPRizmgJlQ
+    
+National Institute of Technology Jalandhar
+    Latitude: 31.3260152
+    Longitude: 75.57618289999999
+    Formatted Address: Jalandhar, Punjab, India
+    Place_ID: ChIJkeupR1daGjkRuLSlWsA0S8c
+    
+National Taiwan University
+    Latitude: 25.0254571
+    Longitude: 121.5273658
+    Formatted Address: National Taiwan Normal University Main Campus I, Da’an District, Taipei City, Taiwan 106
+    Place_ID: ChIJZeCKaoWpQjQRtCudwhewmcY
+    
+National University of Engineering
+    Latitude: 16.4226352
+    Longitude: 120.5906046
+    Formatted Address: National Baguio University, Bokawkan, Baguio, Benguet, Philippines
+    Place_ID: ChIJJbx-ImKhkTMRAI7me7diGHQ
+    
+North Central College
+    Latitude: 28.0530332
+    Longitude: -82.4553299
+    Formatted Address: N Central Ave, Tampa, FL, USA
+    Place_ID: ChIJkZMKNyDHwogRx6f4fFhv2UY
+    
+Northeastern University
+    Latitude: 42.340075
+    Longitude: -71.0895367
+    Formatted Address: Northeastern, Boston, MA 02115, USA
+    Place_ID: ChIJTbwj-hh644kRBfWfsKQ3Na4
+    
+Northwestern University
+    Latitude: 15.9447035
+    Longitude: 120.5815111
+    Formatted Address: Lyceum NorthWestern University, Urdaneta City, Pangasinan, Philippines
+    Place_ID: ChIJH7zUH-c-kTMR6DmnjF5N4uY
+    
+Obninsk Technical University of Nuclear Power Engineering Russia
+    Latitude: 55.1170375
+    Longitude: 36.5970818
+    Formatted Address: Obninsk, Kaluga Oblast, Russia
+    Place_ID: ChIJ98gRfsDSykYRrQirpg0x418
+    
+Old Dominion University
+    Latitude: 36.8838958
+    Longitude: -76.3040214
+    Formatted Address: Old Dominion University, 5115 Hampton Blvd, Norfolk, VA 23508, USA
+    Place_ID: ChIJSzglOk2YuokRdyu03x2xT4Y
+    
+Oregon Institute of Technology
+    Latitude: 42.25442899999999
+    Longitude: -121.785164
+    Formatted Address: Oregon Institute of Technology, Klamath Falls, OR 97601, USA
+    Place_ID: ChIJ1yE3aYfTyFQRenZK5r3yDdE
+    
+PUCMM
+    Latitude: 19.4478319
+    Longitude: -70.6832457
+    Formatted Address: Tanque PUCMM, Santiago De Los Caballeros 51000, Dominican Republic
+    Place_ID: ChIJOTSs72TPsY4RFNOGD8k73bo
+    
+Payame Noor University
+    ==== Unable to Write ====
+    
+Penn State University
+    Latitude: 40.7933949
+    Longitude: -77.8600012
+    Formatted Address: State College, PA, USA
+    Place_ID: ChIJc9s7wZmozokRkYA8g8LG4Zw
+    
+Politecnico di Milano
+    Latitude: 45.4723536
+    Longitude: 9.1964496
+    Formatted Address: Via del Vecchio Politecnico, 20121 Milano, Italy
+    Place_ID: ChIJE6H6R7fGhkcRXgX6SNVHjVk
+    
+Politehnica University Bucharest
+    Latitude: 44.4267674
+    Longitude: 26.1025384
+    Formatted Address: Bucharest, Romania
+    Place_ID: ChIJT608vzr5sUARKKacfOMyBqw
+    
+Polytechnic University of Timisoara
+    ==== Unable to Write ====
+    
+Pondicherry University
+    Latitude: 12.0263438
+    Longitude: 79.8492812
+    Formatted Address: Pondicherry University, Kalapet, Puducherry 605014, India
+    Place_ID: ChIJW1cIV7VlUzoRQaT4bPXwmxw
+    
+Pontificia universidad catolica de chile
+    Latitude: -33.0444219
+    Longitude: -71.60663339999999
+    Formatted Address: Pontificia Universidad Catolica De Valparaiso - Gimpert, Valparaíso, Valparaíso, Región de Valparaíso, Chile
+    Place_ID: ChIJe2I7QsXgiZYRE9RJrFvfcRA
+    
+Portland State University
+    Latitude: 45.513099
+    Longitude: -122.6885447
+    Formatted Address: Portland State University Community Garden, SW 12th Ave, Portland, OR 97201, USA
+    Place_ID: ChIJxawmfxcKlVQRtAXXc-blqv0
+    
+Purdue University Indianapolis
+    Latitude: 39.9673126
+    Longitude: -86.0577399
+    Formatted Address: Lynwood Farm Purdue University, Carmel, IN 46033, USA
+    Place_ID: ChIJvT642k2yFIgRnAHOO-DBiDc
+    
+R V College of Engineering
+    Latitude: 26.3462258
+    Longitude: 43.7633239
+    Formatted Address: College of Engineering, 419, Buraydah 52571, Saudi Arabia
+    Place_ID: ChIJr31Yn5cBghURUUSEjV3bKGs
+    
+RPI
+    Latitude: 18.9331831
+    Longitude: 72.8341894
+    Formatted Address: KP Shethi Building, Janmabhoomi Marg, Kala Ghoda, Fort, Mumbai, Maharashtra 400001, India
+    Place_ID: ChIJBc0fZ9vR5zsRF5T6-bMxkaE
+    
+Ramapo College of New Jersey
+    Latitude: 41.1228928
+    Longitude: -74.0865966
+    Formatted Address: College Rd, Monsey, NY 10952, USA
+    Place_ID: ChIJK3usc33nwokREg_n-seSDbU
+    
+Rochester Institute of Technology
+    Latitude: 43.0800758
+    Longitude: -77.6737734
+    Formatted Address: Rochester Institute of Technology, Rochester, NY 14623, USA
+    Place_ID: ChIJH_BNaWdM0YkRUgw9wMJwHFY
+    
+SASTRA University
+    Latitude: 10.7295115
+    Longitude: 79.0196067
+    Formatted Address: Sastra University Road, Tirumalaisamudram, Tamil Nadu 613401, India
+    Place_ID: ChIJqSVKHii-qjsRgXSwdYcZJdY
+    
+Saint Petersburg State University
+    Latitude: 27.7518284
+    Longitude: -82.6267345
+    Formatted Address: St Petersburg, FL, USA
+    Place_ID: ChIJQao6aWPmwogR_4vUvANAzAQ
+    
+Saint Petersburg State University of Aerospace Instrumentation
+    Latitude: 27.7518284
+    Longitude: -82.6267345
+    Formatted Address: St Petersburg, FL, USA
+    Place_ID: ChIJQao6aWPmwogR_4vUvANAzAQ
+    
+Saint-Petersburg Polytechnic Univesity
+    Latitude: 27.7518284
+    Longitude: -82.6267345
+    Formatted Address: St Petersburg, FL, USA
+    Place_ID: ChIJQao6aWPmwogR_4vUvANAzAQ
+    
+San Francisco State University
+    Latitude: 37.7634766
+    Longitude: -122.4390923
+    Formatted Address: States St, San Francisco, CA 94114, USA
+    Place_ID: ChIJD_SjUQJ-j4AR0wCpqoDY3mY
+    
+San Jose State University
+    Latitude: 37.3229926
+    Longitude: -121.8832
+    Formatted Address: State St, San Jose, CA 95110, USA
+    Place_ID: ChIJpZRmwLTMj4ARtZhvP6MKyXE
+    
+Shanghai Jiao Tong University
+    Latitude: 31.17900569999999
+    Longitude: 121.4219573
+    Formatted Address: Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University In-patient Department, Xuhui, Shanghai, China, 200231
+    Place_ID: ChIJn3mlU-dksjURBz3jP0NfzNw
+    
+Sharif University of Technology
+    Latitude: 35.7569204
+    Longitude: 51.3277804
+    Formatted Address: Tehran, Tehran, Moradi Alley, Pounak Dormitory (Affl. Sharif University of Technology), Iran
+    Place_ID: ChIJowXR42r9jT8RgIHMo5ENu5o
+    
+Simon Bolivar University
+    Latitude: 28.6379654
+    Longitude: -106.094602
+    Formatted Address: Simon Bolívar, Chihuahua, Chih., Mexico
+    Place_ID: ChIJWw0nFjBD6oYRABb0dRZhi24
+    
+Simon Fraser University
+    Latitude: 52.12481500000001
+    Longitude: -106.589195
+    Formatted Address: Simon Fraser Crescent, Saskatoon, SK S7H, Canada
+    Place_ID: ChIJa8FTJPrzBFMR8dy-IfiXGMA
+    
+Smolensk State University
+    Latitude: 54.7903112
+    Longitude: 32.0503663
+    Formatted Address: Smolensk, Smolensk Oblast, Russia
+    Place_ID: ChIJO1fmBTxUzkYRvcQc8HJOKds
+    
+Sonoma State University
+    Latitude: 38.3380748
+    Longitude: -122.6750043
+    Formatted Address: Sonoma State University, California 94928, USA
+    Place_ID: ChIJCYdbY1VKhIARcdIYScLJW6Y
+    
+South Federal University
+    Latitude: 39.6726798
+    Longitude: -105.0250535
+    Formatted Address: S Federal Blvd, Denver, CO, USA
+    Place_ID: ChIJJ8oO7_B_bIcR2AlhC8nKlok
+    
+Spiru Haret University
+    ==== Unable to Write ====
+    
+Stanford
+    Latitude: 37.42410599999999
+    Longitude: -122.1660756
+    Formatted Address: Stanford, CA, USA
+    Place_ID: ChIJzd7xXsm6j4ARUp8sFUMNrWs
+    
+State University of Campinas
+    Latitude: -22.9099384
+    Longitude: -47.0626332
+    Formatted Address: Campinas, Campinas - State of São Paulo, Brazil
+    Place_ID: ChIJJWNL5x3GyJQRKsJ4IWo65Rc
+    
+State University of New York College at Oswego
+    Latitude: 43.4553461
+    Longitude: -76.5104973
+    Formatted Address: Oswego, NY, USA
+    Place_ID: ChIJEapKYeRi14kR6mYAw46fM9w
+    
+Stellenbosch University
+    Latitude: -33.8812733
+    Longitude: 18.6264694
+    Formatted Address: Stellenbosch University, Cape Town, 7530, South Africa
+    Place_ID: ChIJx6f0iHxazB0R26v2swuDwhs
+    
+Stonehill College
+    Latitude: 42.0594537
+    Longitude: -71.0819465
+    Formatted Address: Stonehill College Rd, Easton, MA, USA
+    Place_ID: ChIJXcE97PGF5IkR1qyvEWvUgIE
+    
+Tallinn University
+    Latitude: 59.39384699999999
+    Longitude: 24.6650872
+    Formatted Address: Tallinn University of Technology Stadium, 12616 Tallinn, Estonia
+    Place_ID: ChIJUagzy6mVkkYRlzVqCZ-l26o
+    
+Tallinn University of Technology
+    Latitude: 59.39384699999999
+    Longitude: 24.6650872
+    Formatted Address: Tallinn University of Technology Stadium, 12616 Tallinn, Estonia
+    Place_ID: ChIJUagzy6mVkkYRlzVqCZ-l26o
+    
+Tampere University of Technology
+    Latitude: 61.4981508
+    Longitude: 23.7610254
+    Formatted Address: 33100 Tampere, Finland
+    Place_ID: ChIJXdqTRVXfjkYRwCILHr3j32o
+    
+Tanta University
+    Latitude: 30.0564126
+    Longitude: 31.2102065
+    Formatted Address: Tanta, Al Agouzah, Giza Governorate, Egypt
+    Place_ID: ChIJNwM48iNBWBQRLtqGCkv2bew
+    
+Tarrant County College
+    Latitude: 32.66673900000001
+    Longitude: -97.28993
+    Formatted Address: Tarrant County College, Fort Worth, TX 76119, USA
+    Place_ID: ChIJxZw1-sBvToYRxKdgOIVPzoY
+    
+Technical University of Cluj-Napoca
+    Latitude: 46.7712101
+    Longitude: 23.6236353
+    Formatted Address: Cluj-Napoca, Romania
+    Place_ID: ChIJiwtskR8MSUcRixQfMxxgvAs
+    
+Technion
+    Latitude: 32.778949
+    Longitude: 35.019648
+    Formatted Address: Technion/ Sports Building, Haifa
+    Place_ID: ChIJd9_1WJK6HRURvkO6CqN43AM
+    
+Tel Aviv University
+    Latitude: 32.1036377
+    Longitude: 34.8046418
+    Formatted Address: Tel Aviv - University, Tel Aviv-Yafo
+    Place_ID: ChIJvWSdgNhLHRURGeYEu4n-BX8
+    
+The Jerusalem collage of engineering
+    Latitude: 31.771177
+    Longitude: 35.194163
+    Formatted Address: J-M college of Engineering, Jerusalem
+    Place_ID: ChIJ5ZNL6MfXAhURHFR2zJRfg3Q
+    
+The University of Latvia
+    ==== Unable to Write ====
+    
+The University of Manchester
+    Latitude: 53.4751017
+    Longitude: -2.2353695
+    Formatted Address: University of Manchester, 72 Sackville St, Manchester, Manchester M1 3NJ, UK
+    Place_ID: ChIJ-xc__ZSxe0gR-zV7o6TUN-A
+    
+The University of South Africa
+    Latitude: -33.9592646
+    Longitude: 18.4607236
+    Formatted Address: University Ave S, Rondebosch, Cape Town, 7700, South Africa
+    Place_ID: ChIJ5c1ecztdzB0RrthQJdPooOM
+    
+Transilvania University
+    Latitude: 38.0269358
+    Longitude: -84.5059723
+    Formatted Address: University Dr, Lexington, KY, USA
+    Place_ID: ChIJf6iu0bZEQogRMr9DuzNU97o
+    
+Tufts University
+    Latitude: 42.4036847
+    Longitude: -71.120482
+    Formatted Address: South Hall Tufts University, 30 Lower Campus Rd, Somerville, MA 02144, USA
+    Place_ID: ChIJfetcLt5244kRBNrn8dTcoRA
+    
+UC Berkeley
+    Latitude: 37.8764984
+    Longitude: -122.2804342
+    Formatted Address: California St, Berkeley, CA, USA
+    Place_ID: ChIJ08RfOJB-hYARmBS9PyWOC8g
+    
+UCLA
+    Latitude: 40.5382913
+    Longitude: -78.3528584
+    Formatted Address: Ucla Ln, Altoona, PA 16602, USA
+    Place_ID: ChIJt6dcq4-Ny4kREeq1q6eT72o
+    
+UCSD
+    Latitude: 32.8866612
+    Longitude: -117.2413398
+    Formatted Address: UC San Diego School of Management, La Jolla, CA 92093, USA
+    Place_ID: ChIJvWkFBOsG3IARV1x-7iYYdAE
+    
+UIUC
+    Latitude: 40.110833
+    Longitude: -88.22694399999999
+    Formatted Address: UIUC Engineering Hall, Urbana, IL 61801, USA
+    Place_ID: ChIJkfZ3_D_XDIgRk7pzCtLEwb4
+    
+UMD
+    ==== Unable to Write ====
+    
+UNISA
+    Latitude: -34.9221963
+    Longitude: 138.5922272
+    Formatted Address: Yungondi Building, North Terrace, Adelaide SA 5000, Australia
+    Place_ID: ChIJUWQ9Fi_PsGoR6Y9mIim77MY
+    
+UNIVERSIDAD DE Buenos Aires
+    Latitude: -34.4414891
+    Longitude: -58.75956629999999
+    Formatted Address: Universidad de Buenos Aires, Manuel Alberti, Buenos Aires, Argentina
+    Place_ID: ChIJF8u7FkqfvJUR_W4yYxEJcls
+    
+UOC
+    Latitude: 40.7127837
+    Longitude: -74.0059413
+    Formatted Address: New York, NY, USA
+    Place_ID: ChIJOwg_06VPwokRYv534QaPC8g
+    
+USC
+    Latitude: 46.4062583
+    Longitude: 8.904048399999999
+    Formatted Address: Usc, 6749, Switzerland
+    Place_ID: ChIJGwDKfU6phUcRqw3ZTD6pPnI
+    
+UW Madison
+    Latitude: 43.0447617
+    Longitude: -89.4245627
+    Formatted Address: University of Wisconsin-Madison Arboretum, 1207 Seminole Hwy, Madison, WI 53711, USA
+    Place_ID: ChIJJ8ieExKtB4gRxOy5jbBM2kI
+    
+Universidad Central de Venezuela
+    Latitude: 18.4074917
+    Longitude: -66.062465
+    Formatted Address: Ave Central, San Juan, San Juan, Puerto Rico
+    Place_ID: ChIJmXkf44poA4wRt1PJdaNkShQ
+    
+Universidad Complutense de Madrid
+    Latitude: 40.4469796
+    Longitude: -3.7278167
+    Formatted Address: Av. Complutense, Madrid, Madrid, Spain
+    Place_ID: ChIJ603MhzQoQg0R6QV5ZUokpOc
+    
+Universidad Cooperativa de Colombia
+    Latitude: 4.7500846
+    Longitude: -74.032709
+    Formatted Address: Universidad Cooperativa de Colombia Bloque 31, Bogotá, Colombia
+    Place_ID: ChIJK9TxJoeFP44Rmdx7DU0IYz0
+    
+Universidad Nacional Autonoma de Mexico
+    Latitude: 19.3188895
+    Longitude: -99.1843676
+    Formatted Address: National Autonomous University of Mexico, Mexico City, Federal District, Mexico
+    Place_ID: ChIJG5qXIAkAzoURTYC6BwI8n3w
+    
+Universidad Nacional Costa Rica
+    Latitude: 10.1345309
+    Longitude: -85.4467445
+    Formatted Address: Universidad Nacional, 150, Nicoya, Costa Rica
+    Place_ID: ChIJz_mTlK2wn48R4oo7RudD8hI
+    
+Universidad Nacional de Colombia
+    Latitude: -4.009976
+    Longitude: -79.2085378
+    Formatted Address: Colombia, Loja, Ecuador
+    Place_ID: ChIJ92ouU_A3y5ERtjaGNPTPUGY
+    
+Universidad Tecnologica Boliviana
+    Latitude: 20.5898607
+    Longitude: -100.3751526
+    Formatted Address: Bolivia, Plaza de las Americas, 76048 Santiago de Querétaro, Qro., Mexico
+    Place_ID: ChIJpU131spE04URUTg8S9psOck
+    
+Universidad de Buenos Aires
+    Latitude: -34.4414891
+    Longitude: -58.75956629999999
+    Formatted Address: Universidad de Buenos Aires, Manuel Alberti, Buenos Aires, Argentina
+    Place_ID: ChIJF8u7FkqfvJUR_W4yYxEJcls
+    
+Universidad de Castilla La Mancha
+    Latitude: 40.480453
+    Longitude: -3.3638513
+    Formatted Address: Universidad, 28801 Alcalá de Henares, Madrid, Spain
+    Place_ID: ChIJB17UbRRJQg0RnYb7rcPK9ow
+    
+Universidad de Los Andes Colombia
+    Latitude: 3.4321247
+    Longitude: -76.54617089999999
+    Formatted Address: Parqueadero Universidad Del Valle, Cali, Cali, Valle del Cauca, Colombia
+    Place_ID: ChIJsd8JBJ2mMI4Rbbll6LqR6l0
+    
+Universidad de Oriente
+    Latitude: 19.0303192
+    Longitude: -98.1903344
+    Formatted Address: Universidad de Oriente, Avenida 21 Oriente 1816, Zona Sin Asignación de Nombre de Col 39, Azcarate, Puebla, Pue., Mexico
+    Place_ID: ChIJ_xzQM-3Az4URa5ufd3cV9Qg
+    
+Universidad de San Carlos de Guatemala
+    Latitude: 14.6360021
+    Longitude: -90.50953969999999
+    Formatted Address: Bufete Popular Universidad de San Carlos, Guatemala City, Guatemala
+    Place_ID: ChIJm8QInBWiiYURsQJvVTi371Y
+    
+Universidad de Valladolid
+    Latitude: 41.6518587
+    Longitude: -4.7215284
+    Formatted Address: Universidad, 47002 Valladolid, Valladolid, Spain
+    Place_ID: ChIJ0xnskLESRw0RM-lvzZSDdZM
+    
+Universidad de la Sabana
+    Latitude: 4.860259500000001
+    Longitude: -74.03330319999999
+    Formatted Address: Universidad De La Sabana, Chía, Chía, Cundinamarca, Colombia
+    Place_ID: ChIJCcqmhv6HP44REBSShvQ5KRY
+    
+Universidad del Valle de Guatemala
+    Latitude: 22.2567635
+    Longitude: -97.83456540000002
+    Formatted Address: Guatemala, Cd Madero, Tamps., Mexico
+    Place_ID: ChIJ7SOTM8z514URsIfY97XGV0Y
+    
+Universidade Federal da Paraiba
+    Latitude: -6.751508599999999
+    Longitude: -35.6437193
+    Formatted Address: Universidade Federal da Paraíba - CAVN - R. Santos Dumont, Bananeiras - PB, 58220-000, Brazil
+    Place_ID: ChIJT4OkKA3GrQcRCxa0tQl3Ve0
+    
+Universidade Federal de Santa Catarina
+    Latitude: 19.3490169
+    Longitude: -99.19910089999999
+    Formatted Address: Calz Sta Catarina, Ciudad de México, D.F., Mexico
+    Place_ID: ChIJPyD-6BoA0oURTN2FyVCot5Q
+    
+Universidade Federal do Rio Grande do Sul
+    Latitude: -30.0699518
+    Longitude: -51.118329
+    Formatted Address: Ac. Universidade Federal do Rio Grande do Sul, Porto Alegre - RS, Brazil
+    Place_ID: ChIJt-dLJLqdGZURI-3_FboXV0c
+    
+Universidade Federal do Rio de Janeiro
+    Latitude: -22.8626877
+    Longitude: -43.2258954
+    Formatted Address: Cidade Universitária, Rio de Janeiro - State of Rio de Janeiro, Brazil
+    Place_ID: ChIJa-i-Rdx4mQAR9HGmOLli8Rs
+    
+Universidade Tecnica de Lisboa
+    Latitude: 38.7139308
+    Longitude: -9.197198799999999
+    Formatted Address: Av. Universidade Técnica, Lisboa, Portugal
+    Place_ID: ChIJAUATNKnMHg0RSbJkt9omS6U
+    
+Universidade de Sao Paulo
+    Latitude: -23.5634327
+    Longitude: -46.7159511
+    Formatted Address: Av. da Universidade - Butantã, São Paulo - SP, Brazil
+    Place_ID: ChIJ65jE5U5WzpQR6CdXoJbOLyA
+    
+Universidade do Minho
+    Latitude: 41.557583
+    Longitude: -8.397568
+    Formatted Address: Universidade do Minho, 4710 Braga, Portugal
+    Place_ID: ChIJuZ0XEp7-JA0RTnbN3aDjc4Q
+    
+Universitas Gadjah Mada
+    Latitude: -7.771949
+    Longitude: 110.374874
+    Formatted Address: Pusat Studi Keamanan dan Perdamaian Universitas Gadjah Mada (PSKP UGM), Sinduadi, Mlati, Sleman Regency 55281, Indonesia
+    Place_ID: ChIJ-xrDuktYei4RKRtSrrL4I08
+    
+Universitat Politecnica de Valencia
+    Latitude: 39.48131559999999
+    Longitude: -0.3505
+    Formatted Address: Universitat Politècnica, 46022 Valencia, Valencia, Spain
+    Place_ID: ChIJ67I_DpxIYA0RMMUuqBa9iYk
+    
+Universite Catholique de Louvain
+    Latitude: 50.4079951
+    Longitude: 4.4482526
+    Formatted Address: Université Catholique de Louvain ET. D'UTIL. PUB, 6000 Charleroi, Belgium
+    Place_ID: ChIJ6abM1HImwkcRwM_ocmCdF7A
+    
+University College Dublin
+    Latitude: 53.3053439
+    Longitude: -6.220654
+    Formatted Address: Ucd Post Office, University College Dublin, Stillorgan Rd, Belfield, Dublin 4, Ireland
+    Place_ID: ChIJnWe2izAJZ0gRx6t4uyAP82U
+    
+University Munich
+    Latitude: 48.15038000000001
+    Longitude: 11.5831501
+    Formatted Address: Munich Center for Dispute Resolution, Veterinärstraße 5, 80539 München, Germany
+    Place_ID: ChIJjYcS85R1nkcRWL6HByF51Wg
+    
+University of Akron
+    Latitude: 41.0757602
+    Longitude: -81.5113878
+    Formatted Address: University of Akron, Akron, OH, USA
+    Place_ID: ChIJAb2q0dwpMYgRlk6OdKltAd8
+    
+University of Alberta
+    Latitude: 33.428283
+    Longitude: -111.750401
+    Formatted Address: N Alberta, Mesa, AZ 85205, USA
+    Place_ID: ChIJ-TKPvPqlK4cRhbx3LzRIaYw
+    
+University of Amsterdam
+    Latitude: 14.6311122
+    Longitude: 121.0925464
+    Formatted Address: Amsterdam, Marikina, Metro Manila, Philippines
+    Place_ID: ChIJZ3A3AjK4lzMRtP66a0mXje0
+    
+University of Arkansas
+    Latitude: 35.4747303
+    Longitude: -93.4673475
+    Formatted Address: University, Clarksville, AR 72830, USA
+    Place_ID: ChIJISbPBgdrzIcRy8luhMjyW_Q
+    
+University of Athens
+    Latitude: 33.6813785
+    Longitude: -117.8207916
+    Formatted Address: Athens, Irvine, CA 92614, USA
+    Place_ID: ChIJhRDjni3c3IARZXnunRgOMTo
+    
+University of Belgrade
+    Latitude: 33.0430635
+    Longitude: -96.72549579999999
+    Formatted Address: Belgrade Dr, Plano, TX 75023, USA
+    Place_ID: ChIJXTemOV0YTIYRR86NNB1ShOs
+    
+University of Birmingham
+    Latitude: 32.485186
+    Longitude: -99.7334839
+    Formatted Address: Birmingham, Abilene, TX 79601, USA
+    Place_ID: ChIJ38CbMNCPVoYReAxW_1tMxqw
+    
+University of Buenos Aires
+    Latitude: 42.3423603
+    Longitude: -7.855278800000001
+    Formatted Address: Av. Buenos Aires, 32004 Ourense, Orense, Spain
+    Place_ID: ChIJTaQ4qcD-Lw0RqQq2VIWolIw
+    
+University of Cambridge
+    Latitude: 52.20166709999999
+    Longitude: 0.1177882
+    Formatted Address: University Of Cambridge, Cambridge, Cambridge, Cambridgeshire CB2, UK
+    Place_ID: ChIJqS-K1KJw2EcR9EoMKORtfLw
+    
+University of Central Oklahoma
+    Latitude: 35.2436124
+    Longitude: -97.4164768
+    Formatted Address: Central Pkwy, Norman, OK 73071, USA
+    Place_ID: ChIJSXzYIRlCsocRAFGlQy_4H1A
+    
+University of Chicago
+    Latitude: 28.0282578
+    Longitude: -82.39242689999999
+    Formatted Address: Chicago Ave, Temple Terrace, FL 33617, USA
+    Place_ID: ChIJVUcQQybGwogRHmmQmnR0UfQ
+    
+University of Cincinnati
+    Latitude: 31.7801651
+    Longitude: -106.4981503
+    Formatted Address: Cincinnati Ave, El Paso, TX 79902, USA
+    Place_ID: ChIJtxjaXE9Y54YRi0V5frFYoNQ
+    
+University of Colorado at Boulder
+    Latitude: 40.0082221
+    Longitude: -105.2591119
+    Formatted Address: Colorado Ave & University Heights, Boulder, CO 80302, USA
+    Place_ID: EjlDb2xvcmFkbyBBdmUgJiBVbml2ZXJzaXR5IEhlaWdodHMsIEJvdWxkZXIsIENPIDgwMzAyLCBVU0E
+    
+University of Connecticut
+    Latitude: 14.6007987
+    Longitude: 121.0511111
+    Formatted Address: Connecticut, San Juan, Metro Manila, Philippines
+    Place_ID: ChIJGbLsQCfIlzMReNdkKCmJHMg
+    
+University of Dallas
+    Latitude: 28.6450197
+    Longitude: -106.1127292
+    Formatted Address: Dallas, Campestre III Etapa, 31213 Chihuahua, Chih., Mexico
+    Place_ID: ChIJJQoISt9C6oYRfYtBguvi5c0
+    
+University of Debrecen
+    Latitude: 47.55847929999999
+    Longitude: 21.620443
+    Formatted Address: Debrecen, Debrecen University-Botanical Garden, 4032 Hungary
+    Place_ID: ChIJRVFf44oNR0cRftu3Mh2IhXw
+    
+University of Delaware
+    Latitude: 33.7105331
+    Longitude: -117.7759092
+    Formatted Address: Delaware, Irvine, CA 92620, USA
+    Place_ID: ChIJIWKV04zc3IARmXOL4YCD8Ro
+    
+University of Erlangen-Nuremberg
+    Latitude: 49.5737593
+    Longitude: 11.0273891
+    Formatted Address: Friedrich Alexander University of Erlangen Nuremberg - Informatik, Martensstraße, 91058 Erlangen, Germany
+    Place_ID: ChIJ5be3xsr-oUcRzrhX0nrGnlY
+    
+University of Essex
+    Latitude: 44.9715569
+    Longitude: -93.231866
+    Formatted Address: Essex St SE, Minneapolis, MN 55455, USA
+    Place_ID: ChIJwR5FBiEts1IRKRQrLh9bKlA
+    
+University of Evora
+    Latitude: 51.8887362
+    Longitude: -8.4947274
+    Formatted Address: Evora, Magazine Rd, Coolgarten Park, Cork, Ireland
+    Place_ID: ChIJw3_NFyaQREgRdJjDhr9duqY
+    
+University of Florida
+    Latitude: 28.0735403
+    Longitude: -82.43735889999999
+    Formatted Address: University, FL, USA
+    Place_ID: ChIJUa9wT3XHwogRl6kN7pO7MTE
+    
+University of Gothenburg
+    Latitude: 57.6954209
+    Longitude: 11.9853213
+    Formatted Address: Gothenburg University Library, Renströmsgatan 4, 412 55 Göteborg, Sweden
+    Place_ID: ChIJ6f7j4HXzT0YR195_9s4iWZ0
+    
+University of Greifswald
+    Latitude: 54.08654629999999
+    Longitude: 13.3923414
+    Formatted Address: Greifswald, Germany
+    Place_ID: ChIJ1yJjoaF0q0cRkIKEregaJQQ
+    
+University of Hamburg
+    Latitude: 32.8831914
+    Longitude: -117.24534
+    Formatted Address: Hamburg Square, La Jolla, CA 92037, USA
+    Place_ID: ChIJvdA1WJUG3IARW9abwlviZ1A
+    
+University of Hawaii
+    Latitude: 33.4229288
+    Longitude: -111.8883942
+    Formatted Address: Hawaii, Tempe, AZ 85281, USA
+    Place_ID: ChIJianAt0UIK4cRb7BBtJf0TzU
+    
+University of Helsinki
+    Latitude: 32.083852
+    Longitude: 34.79197
+    Formatted Address: Helsinki St, Tel Aviv-Yafo, Israel
+    Place_ID: ChIJC0wAXZRLHRURyjkm7Kd6U9U
+    
+University of Ilorin Kwara State
+    Latitude: 8.5080482
+    Longitude: 4.5849938
+    Formatted Address: Kwara State University, Ilorin, Nigeria
+    Place_ID: ChIJf_IhOKJNNhAR36sjJxA0f6Y
+    
+University of Jaffna
+    Latitude: 9.7297203
+    Longitude: 79.94829920000001
+    Formatted Address: Jaffna College, AB21, Sri Lanka
+    Place_ID: ChIJn-fE7elS_joRNfPg21Cskz0
+    
+University of Kansas
+    Latitude: 38.8991444
+    Longitude: -94.72548929999999
+    Formatted Address: University Of Kansas, Overland Park, KS 66213, USA
+    Place_ID: ChIJNQAa8azqwIcRMJSSo-DmM2I
+    
+University of Kerala
+    Latitude: 10.0440105
+    Longitude: 76.3252442
+    Formatted Address: University Road, Ernakulam, Kerala, India
+    Place_ID: ChIJmSTzADcMCDsRXye6H5_LWQU
+    
+University of London
+    Latitude: 51.5266171
+    Longitude: -0.1260773
+    Formatted Address: University Of London, 1-11 Cartwright Gardens, Kings Cross, London WC1H 9EB, UK
+    Place_ID: ChIJcdakYDobdkgRzI8lXEepwbQ
+    
+University of Malaga
+    Latitude: 33.6784104
+    Longitude: -117.814595
+    Formatted Address: Malaga, Irvine, CA 92614, USA
+    Place_ID: ChIJq1J3lMzd3IARqY_CZJxIsvc
+    
+University of Malaya
+    Latitude: 14.6349377
+    Longitude: 121.0560147
+    Formatted Address: Malaya, Diliman, Lungsod Quezon, Kalakhang Maynila, Philippines
+    Place_ID: ChIJC9_PDqK3lzMRvqFwaD70xRI
+    
+University of Manchester
+    Latitude: 53.4751017
+    Longitude: -2.2353695
+    Formatted Address: University of Manchester, 72 Sackville St, Manchester, Manchester M1 3NJ, UK
+    Place_ID: ChIJ-xc__ZSxe0gR-zV7o6TUN-A
+    
+University of Michigan
+    Latitude: 42.2783714
+    Longitude: -83.7371794
+    Formatted Address: University of Michigan, Ann Arbor, MI, USA
+    Place_ID: ChIJvVDvkDiuPIgRyEqOjFheWyM
+    
+University of Missouri - Columbia
+    Latitude: 38.6598662
+    Longitude: -90.3123536
+    Formatted Address: Columbia Ave, University City, MO 63130, USA
+    Place_ID: ChIJXx1y5k4134cRVhNmN6tLkZo
+    
+University of Moratuwa
+    Latitude: 6.7959931
+    Longitude: 79.8970038
+    Formatted Address: Bandaranayake Mawatha, Moratuwa, Sri Lanka
+    Place_ID: ChIJJRG5gj9F4joRfOEvj7JWwkc
+    
+University of Mumbai
+    Latitude: 19.0702629
+    Longitude: 72.8571551
+    Formatted Address: University Department of Biophysics, University of Mumbai,Vidya Nagari, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India
+    Place_ID: ChIJERxtXuPI5zsRh4HVHFJUs40
+    
+University of Nebraska
+    Latitude: 31.80783
+    Longitude: -106.468841
+    Formatted Address: Nebraska, El Paso, TX 79930, USA
+    Place_ID: ChIJ_4HSG9xZ54YRFhwiO8Iwk5U
+    
+University of Nebraska - Lincoln
+    Latitude: 40.7953392
+    Longitude: -98.683717
+    Formatted Address: Lincoln Hwy, United States
+    Place_ID: ChIJyYcHKVOGhYARvtcx8xlTG94
+    
+University of New Haven
+    Latitude: 41.2692748
+    Longitude: -72.75524779999999
+    Formatted Address: University of New Haven, Branford Trolley Trail, Branford, CT 06405, USA
+    Place_ID: ChIJ1f7EPwjV54kRBZDbdkYTo-c
+    
+University of New South Wales
+    Latitude: -32.89637870000001
+    Longitude: 151.7035792
+    Formatted Address: University Dr, Newcastle NSW, Australia
+    Place_ID: ChIJGVzmY34Vc2sRdnNOrGvWX58
+    
+University of Notre Dame
+    Latitude: 40.751539
+    Longitude: -73.9812309
+    Formatted Address: University-Notre Dame Development, 10 E 40th St #1901, New York, NY 10016, USA
+    Place_ID: ChIJ0wex8QBZwokRcTpNciIUPJA
+    
+University of Oklahoma
+    Latitude: 35.8715218
+    Longitude: -97.5672431
+    Formatted Address: Noble Ave, Guthrie, OK 73044, USA
+    Place_ID: ChIJWSZ5NzXusYcR1BKihMBsdTs
+    
+University of Ottawa
+    Latitude: 28.652306
+    Longitude: -106.1181642
+    Formatted Address: Ottawa, Fidel Velázquez, 31210 Chihuahua, Chih., Mexico
+    Place_ID: ChIJ34SgGOdC6oYRzpQJvnEj8_A
+    
+University of Oxford
+    Latitude: 39.5069974
+    Longitude: -84.74523099999999
+    Formatted Address: Oxford, OH 45056, USA
+    Place_ID: ChIJM5K7Jw49QIgRzK96D3sHT2k
+    
+University of Padua
+    Latitude: 33.6778327
+    Longitude: -117.8151285
+    Formatted Address: Padua, Irvine, CA 92614, USA
+    Place_ID: ChIJw5bZ88zd3IARk1MQ1I3DEN4
+    
+University of Pavia Italy
+    Latitude: 45.1847248
+    Longitude: 9.1582069
+    Formatted Address: Pavia PV, Italy
+    Place_ID: ChIJSQD6dUwmh0cRjoLPs7y0tfU
+    
+University of Pennsylvania
+    Latitude: 33.4238104
+    Longitude: -111.8869146
+    Formatted Address: Pennsylvania, Tempe, AZ 85281, USA
+    Place_ID: ChIJ6zfSCkYIK4cRmiR_p52d_7Q
+    
+University of Piraeus Athens
+    Latitude: 37.983917
+    Longitude: 23.7293599
+    Formatted Address: Athens, Greece
+    Place_ID: ChIJ8UNwBh-9oRQR3Y1mdkU1Nic
+    
+University of Pretoria
+    Latitude: -25.7328565
+    Longitude: 28.2007589
+    Formatted Address: University of Pretoria, Dr Savage Rd, Pretoria, 0084, South Africa
+    Place_ID: ChIJYcQ9sABilR4R-IH4UD4v60s
+    
+University of Salamanca
+    Latitude: 20.8006748
+    Longitude: -102.7653822
+    Formatted Address: Universidad de Salamanca, Las Calles de Alcala, Tepatitlán de Morelos, Jal., Mexico
+    Place_ID: ChIJ3XVGKXkoKYQRmpiTobqbyz0
+    
+University of Sao Paulo
+    Latitude: 28.6853472
+    Longitude: -106.1015266
+    Formatted Address: São Paulo, Chihuahua, Chih., Mexico
+    Place_ID: ChIJiYlD0a9D6oYR0AgJrlJpfOA
+    
+University of Sarajevo
+    Latitude: 43.8562586
+    Longitude: 18.4130763
+    Formatted Address: Sarajevo, Bosnia and Herzegovina
+    Place_ID: ChIJ0Ztx7bHLWEcRPrOH3qbNLlY
+    
+University of Southern California
+    Latitude: 38.19991050000001
+    Longitude: -85.7659121
+    Formatted Address: Southern Pkwy, Louisville, KY, USA
+    Place_ID: ChIJC2aD3nASaYgRcPtXuhXCsf0
+    
+University of Stellenbosch
+    Latitude: -33.8812733
+    Longitude: 18.6264694
+    Formatted Address: Stellenbosch University, Cape Town, 7530, South Africa
+    Place_ID: ChIJx6f0iHxazB0R26v2swuDwhs
+    
+University of Tartu
+    Latitude: 58.37332809999999
+    Longitude: 26.7265098
+    Formatted Address: University of Tartu Physics Building, 50103 Tartu, Estonia
+    Place_ID: ChIJAyMmnSA360YRcrsn164y2ZA
+    
+University of Tehran
+    Latitude: 35.7058075
+    Longitude: 51.4020909
+    Formatted Address: Tehran University, Tehran, Tehran, Iran
+    Place_ID: ChIJBayocRoBjj8RLoYC4b2OH6M
+    
+University of Texas
+    Latitude: 30.2306914
+    Longitude: -97.75552049999999
+    Formatted Address: University, Austin, TX 78704, USA
+    Place_ID: ChIJg9mGd-y0RIYRDSxiew3h0jY
+    
+University of Texas at Austin
+    Latitude: 30.2850284
+    Longitude: -97.7335226
+    Formatted Address: University of Texas at Austin, Austin, TX, USA
+    Place_ID: ChIJZe22kZq1RIYR4Ed2g630JxE
+    
+University of Toronto
+    Latitude: 43.659598
+    Longitude: -79.3947916
+    Formatted Address: Toronto, Toronto, ON M5S, Canada
+    Place_ID: ChIJy9EefMc0K4gRV1I5vpHvxGo
+    
+University of Tuebingen
+    Latitude: 48.5216364
+    Longitude: 9.0576448
+    Formatted Address: Tübingen, Germany
+    Place_ID: ChIJgdDN7dT6mUcRjacz_s6uCKw
+    
+University of Twente
+    Latitude: 38.9562038
+    Longitude: -95.24411119999999
+    Formatted Address: Twente Hall, Lawrence, KS 66044, USA
+    Place_ID: ChIJPZ9qp0tvv4cRb5oLVI9wra8
+    
+University of Utah
+    Latitude: 33.4249307
+    Longitude: -111.8884532
+    Formatted Address: Utah, Tempe, AZ 85281, USA
+    Place_ID: ChIJpfa6YU8IK4cRD_Zs5agCArc
+    
+University of Vienna
+    Latitude: 33.6140008
+    Longitude: -117.8440006
+    Formatted Address: Vienna, Newport Beach, CA 92660, USA
+    Place_ID: ChIJzU1Lyrng3IARPJUJ8JhgnHU
+    
+University of Warsaw
+    Latitude: 14.606319
+    Longitude: 121.0977669
+    Formatted Address: Warsaw, Pasig, Metro Manila, Philippines
+    Place_ID: ChIJQfjmyBO4lzMRI4fIwuWaWtI
+    
+University of Washington
+    Latitude: 31.767879
+    Longitude: -106.440736
+    Formatted Address: Washington, El Paso, TX 79905, USA
+    Place_ID: ChIJCZhKHn5Z54YRRcEmmuQYgKU
+    
+University of Washington - Bothell
+    Latitude: 47.761605
+    Longitude: -122.19303
+    Formatted Address: UW Bothell & Cascadia College, Bothell, WA 98011, USA
+    Place_ID: ChIJowa-3mUOkFQRhxJkKcokpT4
+    
+University of Waterloo
+    Latitude: 43.4731293
+    Longitude: -80.541687
+    Formatted Address: University of Waterloo, Waterloo, ON N2L, Canada
+    Place_ID: ChIJBaxtrQH0K4gRkicxTySDDbw
+    
+University of West Florida
+    Latitude: 28.0653332
+    Longitude: -82.48322879999999
+    Formatted Address: West Lake, Lake Magdalene, FL 33612, USA
+    Place_ID: ChIJWWcAJ8nAwogRKfVGTRp9CNk
+    
+University of Wisconsin
+    Latitude: 14.5995226
+    Longitude: 121.0539938
+    Formatted Address: Wisconsin, Mandaluyong, Metro Manila, Philippines
+    Place_ID: ChIJIUP1fCDIlzMRW0kts-Nzd6s
+    
+University of the Punjab Lahore
+    Latitude: 31.49574669999999
+    Longitude: 74.2995378
+    Formatted Address: Institute of Business & Information Technology, University of the Punjab, Lahore, Pakistan
+    Place_ID: ChIJG13AGpIDGTkRBgVQ72DCEcA
+    
+University of the Witwatersrand
+    Latitude: -26.1800289
+    Longitude: 28.0437484
+    Formatted Address: University of the Witwatersrand - Bohlaleng Block, Leseding Block, McGregor Block, Marang Centre, 1 Jan Smuts Ave, Johannesburg, 2000, South Africa
+    Place_ID: ChIJr79mST4MlR4R-5bTbqhDxRM
+    
+Vilnius Gediminas Technical University
+    Latitude: 54.6871555
+    Longitude: 25.2796514
+    Formatted Address: Vilnius, Lithuania
+    Place_ID: ChIJ9QhkXPuT3UYRQNzpcIzRAAQ
+    
+Vilnius University
+    Latitude: 54.6871555
+    Longitude: 25.2796514
+    Formatted Address: Vilnius, Lithuania
+    Place_ID: ChIJ9QhkXPuT3UYRQNzpcIzRAAQ
+    
+Virginia Commonwealth University
+    Latitude: 38.3242649
+    Longitude: -77.47766
+    Formatted Address: Commonwealth Pl, Falmouth, VA 22405, USA
+    Place_ID: ChIJTUq6wATqtokRHItILmG2Y9c
+    
+Virginia Tech
+    Latitude: 36.8743583
+    Longitude: -76.17454409999999
+    Formatted Address: Virginia Tech Trail, Virginia Beach, VA 23455, USA
+    Place_ID: ChIJw0P35CuUuokROoH5mxE5Pyg
+    
+Viswakarma Institute Pune India
+    Latitude: 18.4574518
+    Longitude: 73.8837999
+    Formatted Address: Vishwakarma Institutes Play Ground, Yashodhan Society, Kapil Nagar, Kondhwa Budrukh, Vishwakarma, Maharashtra 411048, India
+    Place_ID: ChIJ_aLSAvTqwjsRozExt0o5hno
+    
+Warsaw University
+    Latitude: 14.606319
+    Longitude: 121.0977669
+    Formatted Address: Warsaw, Pasig, Metro Manila, Philippines
+    Place_ID: ChIJQfjmyBO4lzMRI4fIwuWaWtI
+    
+Washington State University
+    Latitude: 40.835219
+    Longitude: -77.8097999
+    Formatted Address: Washington Ave, State College, PA 16801, USA
+    Place_ID: ChIJvQ5TE0ukzokRRzmde17DkNo
+    
+Wayne State
+    Latitude: 38.2407197
+    Longitude: -82.43794009999999
+    Formatted Address: State Ave, Wayne, WV 25570, USA
+    Place_ID: ChIJ4Uny3H3vRYgRXPqO3llpGmg
+    
+Weber State
+    Latitude: 41.707574
+    Longitude: -91.658885
+    Formatted Address: State St, Tiffin, IA 52340, USA
+    Place_ID: ChIJceVkE55F5IcRKHkajmY7-_Q
+    
+Weizmann Institute of Science
+    Latitude: 31.9026385
+    Longitude: 34.8085102
+    Formatted Address: Weizmann Institute of Science, Herzl St 234, Rehovot, 76100, Israel
+    Place_ID: ChIJnSqNoQK3AhURRalOgGxgE2c
+    
+Western Governors University
+    Latitude: 40.5683722
+    Longitude: -105.0747026
+    Formatted Address: Board of Governors of the Colorado State University System, Fort Collins, CO 80524, USA
+    Place_ID: ChIJ94UkFv5KaYcR_l8viovg0KQ
+    
+Xavier University
+    Latitude: 33.5047266
+    Longitude: -112.0657477
+    Formatted Address: Xavier College, Phoenix, AZ 85012, USA
+    Place_ID: ChIJ0ztjHZQSK4cRtnhC45jCBfM
+    
+Zagazig University
+    Latitude: 30.5848529
+    Longitude: 31.4843221
+    Formatted Address: Rd inside Zagazig University, Shaibet an Nakareyah, Markaz El-Zakazik, Ash Sharqia Governorate, Egypt
+    Place_ID: ChIJmW7K9lPw9xQRMWFN1BunQBI
+    
+allama iqbal open university islamabad
+    Latitude: 31.4932177
+    Longitude: 73.10517779999999
+    Formatted Address: Allama Iqbal Open University, Faisalabad, Pakistan
+    Place_ID: ChIJA1SH1B1qIjkR5PsU3PVJ0x0
+    
+arizona state university
+    Latitude: 33.4232051
+    Longitude: -111.8879509
+    Formatted Address: State Ave, Tempe, AZ 85281, USA
+    Place_ID: ChIJU0vdxkUIK4cRNFy7iws5sS8
+    
+federal institute of tecnology and education from southeastern Minas Gerais
+    Latitude: -18.512178
+    Longitude: -44.5550308
+    Formatted Address: State of Minas Gerais, Brazil
+    Place_ID: ChIJiUIyZaGQpgARs-edN8lwIRE
+    
+kansas state university
+    Latitude: 37.6782034
+    Longitude: -97.41333139999999
+    Formatted Address: W University St, Wichita, KS, USA
+    Place_ID: ChIJ39MaXcPguocRlRSBbdscXis
+    
+universidad complutense de madrid
+    Latitude: 40.4469796
+    Longitude: -3.7278167
+    Formatted Address: Av. Complutense, Madrid, Madrid, Spain
+    Place_ID: ChIJ603MhzQoQg0R6QV5ZUokpOc
+    
+university of Patras
+    Latitude: 29.6524714
+    Longitude: -95.1358224
+    Formatted Address: Patras Dr, Pasadena, TX 77505, USA
+    Place_ID: ChIJb4koUi6fQIYRmdwFvLzrB2s
+    
+university of padua
+    Latitude: 33.6778327
+    Longitude: -117.8151285
+    Formatted Address: Padua, Irvine, CA 92614, USA
+    Place_ID: ChIJw5bZ88zd3IARk1MQ1I3DEN4
+    

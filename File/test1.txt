@@ -1,0 +1,11 @@
+From: arthur@gmail.com
+To: zack@gmail.com
+Today is a nice day.
+
+From: bill@gmail.com
+To: yardley@gmail.com
+The food was horrible.
+
+From: charles@gmail.com
+To: xavier@gmail.com
+The book is interesting.
