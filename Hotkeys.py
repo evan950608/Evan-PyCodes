@@ -43,12 +43,14 @@ items = [MdHotkey(1 , (ord('G'), win32con.MOD_CONTROL, win32con.MOD_WIN) ,lambda
         MdHotkey(22 ,  (ord('S'), win32con.MOD_ALT) ,lambda :os.startfile(r'SnippingTool.exe')),
         MdHotkey(23 ,  (ord('K'), win32con.MOD_ALT) ,lambda :os.startfile(r'C:\Users\evan9\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\KMPlayer.lnk')),
         MdHotkey(24 ,  (ord('P'), win32con.MOD_ALT) ,lambda :os.startfile(r'C:\Users\evan9\AppData\Local\Programs\Python\Python36\Scripts\spyder3.exe')),
-        MdHotkey(25 ,  (ord('J'), win32con.MOD_ALT) ,lambda :os.startfile(r"C:\PyCodes\To_Compile\dist\Open_Jupyter_Notebook\Open_Jupyter_Notebook.exe")),
+        MdHotkey(25 ,  (ord('J'), win32con.MOD_ALT) ,lambda :os.startfile(r"C:\GitHub\Evan-Python-Basics\To_Compile\Jupyter_GitHub.py")),
+        
 
-        MdHotkey(41 ,  (ord('P'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\PyCodes')),
+        MdHotkey(41 ,  (ord('P'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\GitHub')),
         MdHotkey(42 ,  (ord('L'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\Users\evan9\Downloads')),
         MdHotkey(43 ,  (ord('E'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\Evan')),
         MdHotkey(44 ,  (ord('I'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\Musics')),
+#        MdHotkey(45 ,  (ord('G'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r"C:\GitHub")),
         
         MdHotkey(61 ,  (win32con.VK_LEFT, win32con.MOD_CONTROL) ,lambda :pyautogui.hotkey('ctrl', 'z' ,pause=0)),
         MdHotkey(62 ,  (win32con.VK_RIGHT, win32con.MOD_CONTROL) ,lambda :pyautogui.hotkey('ctrl', 'v' ,pause=0)),
