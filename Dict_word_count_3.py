@@ -6,7 +6,8 @@ Created on Tue Jun 19 22:05:43 2018
 """
 
 name = input("Enter file:")
-if len(name) < 1 : name = "c:\\PyCodes\\File\\mbox-short.txt"
+if len(name) < 1:
+    name = "C:\\Users\\evan9\\OneDrive\\Document\\GitHub\\Evan-Python-Basics\\File\\mbox-short.txt"
 handle = open(name)
 
 counts = {}

@@ -64,7 +64,9 @@ print(dict1)
 n8 = dict1.setdefault('George',100)
 print(n8)
 print(dict1)
-
+n9 = dict1.setdefault('Arthur', 95)
+print(n9)
+print(dict1)
 
 
 

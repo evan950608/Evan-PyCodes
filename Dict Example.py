@@ -25,3 +25,9 @@ for ch in list1:
 dt = sorted(dt.items(), key= lambda x: x[1] ,reverse=True)
 print('type(dt)', type(dt))
 print(dt)
+
+#for (key,value) in dt.items():
+#    print("{} {}".format(key,value))
+
+for (key,value) in dt:
+    print("{} {}".format(key,value))

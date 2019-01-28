@@ -14,6 +14,8 @@ byvalue = []
 for key,value in score.items():    #loop through the dict in value order
     tup = (value, key)
     byvalue.append(tup)
+
+print(byvalue)
 byvalue = sorted(byvalue, reverse=True)
 print(byvalue)
 
