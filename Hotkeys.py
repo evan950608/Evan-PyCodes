@@ -49,7 +49,7 @@ items = [MdHotkey(1 , (ord('G'), win32con.MOD_CONTROL, win32con.MOD_WIN) ,lambda
         MdHotkey(42 ,  (ord('L'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\Users\evan9\Downloads')),
         MdHotkey(43 ,  (ord('E'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\Evan')),
 #        MdHotkey(44 ,  (ord('I'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r'C:\Musics')),
-        MdHotkey(45 ,  (ord('H'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r"C:\1a Courses")),
+        MdHotkey(45 ,  (ord('H'), win32con.MOD_ALT, win32con.MOD_WIN) ,lambda :os.startfile(r"C:\1b Courses")),
         
         MdHotkey(61 ,  (win32con.VK_LEFT, win32con.MOD_CONTROL) ,lambda :pyautogui.hotkey('ctrl', 'z' ,pause=0)),
         MdHotkey(62 ,  (win32con.VK_RIGHT, win32con.MOD_CONTROL) ,lambda :pyautogui.hotkey('ctrl', 'v' ,pause=0)),
