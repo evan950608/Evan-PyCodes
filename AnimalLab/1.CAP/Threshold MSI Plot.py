@@ -25,6 +25,6 @@ axes.set_ylabel('Response (mV)', fontsize=16)
 axes.set_title('Threshold & MSI', fontsize=24)
 
 plt.show()
-fig.savefig('Threshold MSI2.png', dpi=200)
+#fig.savefig('Threshold MSI2.png', dpi=200)
 
 

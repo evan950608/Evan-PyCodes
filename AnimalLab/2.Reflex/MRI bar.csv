@@ -1,0 +1,7 @@
+Exp,Type,Avg_time,Maximal_response,Avg_response
+Relaxed,reflex,,1.57,1.037
+Relaxed,react,,5.1,2.829
+Focused,reflex,,2.5,1.334
+Focused,react,,3.55,2.529
+J. Maneuver,reflex,31.55,1.85,1.121
+J. Maneuver,react,301.6,3.24,2.332
