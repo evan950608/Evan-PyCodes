@@ -1,0 +1,7 @@
+Exp,Type,Average_time,std
+Relaxed,react,0.293,0.09282834
+Focused,react,0.348,0.17713272
+J. Maneuver,react,0.3016,0.1223827
+Relaxed,reflex,0.04,0.001
+Focused,reflex,0.034190909,0.000995859
+J. Maneuver,reflex,0.03155,0.000761942
